@@ -11,6 +11,7 @@ const config = {
   links: [
     {
       name: 'Discord',
+      url: 'https://discordapp.com/users/791144439611523152'
       text: 'rwbviking',
     },
     {
