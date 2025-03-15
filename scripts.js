@@ -18,7 +18,7 @@ const config = {
       url: 'https://steamcommunity.com/id/vxdreadxv',
       text: 'TheRedViking',
     },
-    {
+   /* {
       name: 'Epic Games',
       text: '',
     },
@@ -26,17 +26,17 @@ const config = {
       name: 'Spotify',
       url: '',
       text: '',
-    },
+    },*/
     {
       name: 'Github',
       url: 'https://github.com/rwbviking',
       text: 'RWBViking',
     },
-    {
+    /*{
       name: 'Youtube',
       url: '',
       text: '',
-    },
+    },*/
   ],
   credit: true,
 };
