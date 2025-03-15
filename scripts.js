@@ -28,6 +28,11 @@ const config = {
       text: '',
     },*/
     {
+      name: 'Reddit',
+      url: 'https://www.reddit.com/user/PatrioticViking/',
+      text: 'PatrioticViking',
+    },
+    {
       name: 'Github',
       url: 'https://github.com/rwbviking',
       text: 'RWBViking',
